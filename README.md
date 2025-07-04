@@ -39,10 +39,11 @@
 I'm currently building full-stack desktop applications and exploring computer vision and AI. Here's a snapshot of what I'm focused on:
 
 **💼 In my internship (SWE @ Micromatic Grinding Technologies):**
-- Developing production-ready cross-platform apps using **React**, **TypeScript**, **Electron**, and **FastAPI**.
-- Architecting scalable frontends with **Zustand** for state management and **Tailwind CSS** for clean, maintainable design.
-- Implementing real-time backend systems using **Python**, **REST APIs**, **multithreading**, and **WebSocket/polling** strategies.
-- Using **Docker** and **GitHub Actions** to containerize services and automate CI/CD workflows.
+- Building a full-stack Windows application to replace legacy CNC HMIs, improving flexibility and maintainability.
+- Scaling UI to 40+ production screens supporting end-to-end grinding workflows across machine types.
+- Engineering real-time backend systems using **Python**, **C++**, **REST APIs**, **multithreading**, and **WebSocket/polling** strategies.
+- Integrating **Docker** and **GitHub Actions** to containerize services and automate CI/CD workflows.
+
 
 **🛠️ On my own:**
 - Exploring **Computer Vision and ML models** through tools like [VisuaReader](https://github.com/yourusername/VisuaReader), a hands-free PDF reader using blink detection.
