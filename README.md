@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Yash!
-👨🏻‍💻 Software Engineering Intern @ Micromatic Grinding Technologies, building industrial CNC HMI systems<br/>
+👨🏻‍💻 Software Engineering Intern @ Micromatic Grinding Technologies, developing full-stack desktop applications for industrial automation<br/>
 👨🏻‍🎓 Studying [Computer Science](https://cs.uwaterloo.ca/) at the University of Waterloo, Canada<br/>
+🔧 Building scalable software systems and integrating ML to drive real-world product impact<br/>
 💭 Currently exploring AI, machine learning, and human-computer interaction<br/>
 🚀 Seeking Winter 2026 Software Engineering Co-op opportunities!
 
