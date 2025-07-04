@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yash!
 👨🏻‍💻 Software Engineering Intern @ Micromatic Grinding Technologies, building industrial CNC HMI systems<br/>
-👨🏻‍🎓 Studied [Computer Science](https://cs.uwaterloo.ca/) at the University of Waterloo, Canada<br/>
+👨🏻‍🎓 Studying [Computer Science](https://cs.uwaterloo.ca/) at the University of Waterloo, Canada<br/>
 💭 Currently exploring AI, machine learning, and human-computer interaction<br/>
 🚀 Seeking Winter 2026 Software Engineering Co-op opportunities!
 
@@ -25,7 +25,11 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Mediapipe](https://img.shields.io/badge/mediapipe-FF69B4?style=for-the-badge)
+
 
 
 ## 🌱 What I'm working on
