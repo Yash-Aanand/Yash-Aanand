@@ -46,7 +46,7 @@ I'm currently building full-stack applications and exploring computer vision and
 
 
 **🛠️ On my own:**
-- Exploring **Computer Vision and ML models** through tools like [VisuaReader](https://github.com/yourusername/VisuaReader), a hands-free PDF reader using blink detection.
+- Exploring **Computer Vision and ML models** through projects like [VisuaReader](https://github.com/yash-aanand/VisuaReader), a hands-free reader using blink detection.
 - Deepening my understanding of **AI**, **deep learning**, and **human-computer interaction** through side projects and online courses.
 
 ---
