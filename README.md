@@ -36,7 +36,7 @@
 
 
 ## 🌱 What I'm working on
-I'm currently building full-stack desktop applications and exploring computer vision and AI. Here's a snapshot of what I'm focused on:
+I'm currently building full-stack applications and exploring computer vision and AI/ML. Here's a snapshot of what I'm focused on:
 
 **💼 In my internship (SWE @ Micromatic Grinding Technologies):**
 - Building a full-stack Windows application to replace legacy CNC HMIs, improving flexibility and maintainability.
