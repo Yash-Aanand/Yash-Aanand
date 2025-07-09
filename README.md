@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Yash!
-👨🏻‍💻 SWE Intern @ Micromatic | Prev @ Parkquility | Head of Tech @ NPS RNR <br/>
+👨🏻‍💻 SDE @ Micromatic | Prev @ Parkquility | Head of Tech @ NPS RNR <br/>
 🎓 2nd Year CS @ University of Waterloo (Honours Co-op) <br/>
 💭 Exploring AI, ML, and human-computer interaction <br/>
 🚀 Seeking Winter 2026 SWE internships <br/>
@@ -35,18 +35,9 @@
 
 
 ## 🌱 What I'm working on
-I'm currently building full-stack applications and exploring computer vision and AI/ML. Here's a snapshot of what I'm focused on:
-
-**💼 In my internship (SWE @ Micromatic Grinding Technologies):**
-- Building a full-stack Windows application to replace legacy CNC HMIs, improving flexibility and maintainability.
-- Scaling UI to 40+ production screens supporting end-to-end grinding workflows across machine types.
-- Engineering real-time backend systems using **Python**, **C++**, **REST APIs**, **multithreading**, and **WebSocket/polling** strategies.
-- Integrating **Docker** and **GitHub Actions** to containerize services and automate CI/CD workflows.
-
-
-**🛠️ On my own:**
-- Exploring **Computer Vision and ML models** through projects like [VisuaReader](https://github.com/yash-aanand/VisuaReader), a hands-free reader using optical recognition.
-- Deepening my understanding of **AI**, **deep learning**, and **human-computer interaction** through side projects and online courses.
+🛠 Building a full-stack Windows HMI at Micromatic using React, FastAPI, C++, and WebSocket-based real-time CNC integration <br/>
+🧠 Exploring AI/ML and computer vision through personal projects like VisuaReader (blink-controlled PDF reader) <br/>
+🚢 Automating deployments with Docker and GitHub Actions; improving backend reliability with multithreaded systems <br/>
 
 ---
 
