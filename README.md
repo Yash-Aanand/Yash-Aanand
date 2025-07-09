@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Yash!
-👨🏻‍💻 Software Engineering Intern @ Micromatic Grinding Technologies, developing full-stack applications for industrial automation<br/>
-👨🏻‍🎓 Studying [Computer Science](https://cs.uwaterloo.ca/) at University of Waterloo<br/>
-💭 Currently exploring AI, machine learning, and human-computer interaction<br/>
-🚀 Seeking Winter 2026 Software Engineering Co-op opportunities!
+👨🏻‍💻 SWE Intern @ Micromatic | Prev @ Parkquility | Head of Tech @ NPS RNR
+🎓 2nd Year CS @ University of Waterloo (Honours Co-op)
+💭 Exploring AI, ML, and human-computer interaction
+🚀 Seeking Winter 2026 SWE internships
 
 
 # 💻 Tech Stack
