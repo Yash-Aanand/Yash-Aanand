@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Yash!
-👨🏻‍💻 SWE Intern @ Micromatic | Prev @ Parkquility | Head of Tech @ NPS RNR
-🎓 2nd Year CS @ University of Waterloo (Honours Co-op)
-💭 Exploring AI, ML, and human-computer interaction
-🚀 Seeking Winter 2026 SWE internships
+👨🏻‍💻 SWE Intern @ Micromatic | Prev @ Parkquility | Head of Tech @ NPS RNR <br/>
+🎓 2nd Year CS @ University of Waterloo (Honours Co-op) <br/>
+💭 Exploring AI, ML, and human-computer interaction <br/>
+🚀 Seeking Winter 2026 SWE internships <br/>
 
 
 # 💻 Tech Stack
