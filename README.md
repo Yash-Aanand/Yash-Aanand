@@ -36,7 +36,7 @@
 
 ## 🌱 What I'm working on
 🛠 Building a full-stack Windows HMI at Micromatic using React, FastAPI, C++, and WebSocket-based real-time CNC integration <br/>
-🧠 Exploring AI/ML and computer vision through personal projects like VisuaReader (blink-controlled PDF reader) <br/>
+🧠 Exploring AI/ML and computer vision through personal projects like VisuaReader (blink-controlled PDF reader)<br/>
 🚢 Automating deployments with Docker and GitHub Actions; improving backend reliability with multithreaded systems <br/>
 
 ---
