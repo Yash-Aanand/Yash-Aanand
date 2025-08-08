@@ -45,4 +45,4 @@
 - **Portfolio / Site**: [yashaanand.com](https://yashaanand.com/)
 - **LinkedIn**: [linkedin.com/in/yash-aanand](https://www.linkedin.com/in/yash-aanand)
 
-Feel free to reach out if you’d like to connect or collaborate on software engineering or AI-focused projects or opportunities! 😊
+Reach out for collaborations and opportunities!
