@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Yash!
-👨🏻‍💻 SDE @ Micromatic | prev SWE @ Parkquility | Head of Tech @ NPS RNR <br/>
+👨🏻‍💻 prev SWE @ Micromatic, Parkquility | Head of Tech @ NPS RNR <br/>
 🎓 2nd Year CS @ University of Waterloo (Honours Co-op) <br/>
 💭 Exploring AI, ML, and human-computer interaction <br/>
 🚀 Seeking Winter 2026 SWE internships  <br/>
