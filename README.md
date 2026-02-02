@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Yash!
-👨🏻‍💻 Incoming @ IrisGo | prev SWE @ Micromatic, Parkquility<br/>
+👨🏻‍💻 SWE Intern @ IrisGo | prev SWE @ Micromatic, Parkquility<br/>
 🎓 2nd Year CS @ University of Waterloo (Honours Co-op) <br/>
 💭 Exploring OS, AI/ML, and human-computer interaction <br/>
 🚀 Seeking Summer/Fall 2026 SWE internships  <br/>
@@ -31,13 +31,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Mediapipe](https://img.shields.io/badge/mediapipe-FF69B4?style=for-the-badge)
-
-
-
-## 🌱 What I'm working on
-🛠 Building a full-stack Windows HMI at Micromatic using React, FastAPI, C++, and WebSocket-based real-time CNC integration <br/>
-🧠 Exploring AI/ML and computer vision through personal projects like VisuaReader (blink-controlled PDF reader)<br/>
-🚢 Automating deployments with Docker and GitHub Actions; improving backend reliability with multithreaded systems <br/>
 
 ---
 
