@@ -7,7 +7,7 @@
 
 ## 🔨 Featured Project
 
-**[CacheForge](https://github.com/Yash-Aanand/cacheforge)** : Redis-like in-memory cache server in C++ with epoll I/O multiplexing, multithreaded workers, 16-shard concurrent storage, TTL expiration, LRU eviction, and AOF persistence. 41K ops/sec, p99 < 500μs. 
+**[CacheForge](https://github.com/Yash-Aanand/cacheforge)** : Redis-like in-memory cache server in C++
 
 ## 💻 Tech Stack
 
