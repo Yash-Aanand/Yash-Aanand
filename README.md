@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Yash!
 
-👨🏻‍💻 SWE Intern @ IrisGo | prev SWE @ Micromatic, Parkquility<br/>
-🎓 2nd Year CS @ University of Waterloo (Honours Co-op)<br/>
-🚀 Seeking Summer/Fall 2026 SWE internships
+ - SWE @ IrisGo | prev SWE @ Micromatic, Parkquility<br/>
+ - CS @ University of Waterloo (Honours Co-op)<br/>
+ - Seeking Summer/Fall 2026 SWE internships
   
 ---
 
